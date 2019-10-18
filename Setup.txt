@@ -1,0 +1,25 @@
+# 上課環境之軟體安裝
+
+
+1.  安裝 Git
+    https://git-scm.com/
+
+    <Note> 本操作文件以 Windows 作業系統舉例說明。
+
+    <Note> 安裝時，請勾選Windows Explorer integration 底下的兩個選項:
+    - Git Bash Here
+    - Git GUI here）
+
+
+2.  Visual Studio Code
+    https://code.visualstudio.com/
+
+
+3.  在 Visual Studio Code 安裝套件
+    <Hint>
+    點按 VS Code 左邊側邊工具的第五個(方形那個)圖示，
+    輸入關鍵字，例如: Live
+    Live Server (ritwickdey.liveserver)
+
+
+
